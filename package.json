@@ -1,0 +1,15 @@
+{
+  "name": "nextstep-advisor-(1)",
+  "version": "1.0.0",
+  "description": "## Structure - `server/` : TypeScript Express + Socket.IO backend - `client/` : React frontend with NextStepAdvisorDashboard.jsx",
+  "main": "index.js",
+  "scripts": {
+     "test": "echo \"Error: no test specified\" && exit 1",
+     "client": "cd client && npm start",
+     "server": "cd server && npm run dev",
+     "start": "npm run client"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
